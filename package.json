@@ -1,0 +1,7 @@
+{
+  "name": "ttt",
+  "description": "TicTacToe",
+  "dependencies": {
+    "wpe-lightning-sdk": "rdkcentral/Lightning-SDK"
+  }
+}
